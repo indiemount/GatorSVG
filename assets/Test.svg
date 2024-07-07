@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns3="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 285.74999 285.75" version="1.1" id="svg1" xml:space="preserve" ns1:export-filename="sample.svg" ns1:export-xdpi="96" ns1:export-ydpi="96">
+<ns2:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" ns1:showpageshadow="2" ns1:pageopacity="0.0" ns1:pagecheckerboard="0" ns1:deskcolor="#d1d1d1" ns1:document-units="px">
+</ns2:namedview>
+<ns0:defs id="defs1">
+<ns0:rect x="35.181812" y="861.95441" width="1015.8748" height="164.91473" id="rect274">
+</ns0:rect>
+<ns0:linearGradient id="linearGradient270" ns1:collect="always">
+<ns0:stop style="stop-color:#0086df;stop-opacity:1" offset="0" id="stop270">
+</ns0:stop>
+<ns0:stop style="stop-color:#ce9500;stop-opacity:1" offset="1" id="stop271">
+</ns0:stop>
+</ns0:linearGradient>
+<ns0:font horiz-adv-x="1000" id="font10" ns1:label="font 1" horiz-origin-x="0" horiz-origin-y="0" vert-origin-x="512" vert-origin-y="768" vert-adv-y="1024">
+<ns0:font-face units-per-em="1000" ascent="750" cap-height="600" x-height="400" descent="200" id="font-face10" font-family="SVGFont 1">
+</ns0:font-face>
+<ns0:missing-glyph d="M0,0h1000v1000h-1000z" id="missing-glyph10">
+</ns0:missing-glyph>
+</ns0:font>
+<ns0:linearGradient ns1:collect="always" ns3:href="#linearGradient270" id="linearGradient271" x1="-32.579529" y1="149.85638" x2="253.72256" y2="149.85638" gradientUnits="userSpaceOnUse">
+</ns0:linearGradient>
+</ns0:defs>
+<ns0:g ns1:label="Layer 1" ns1:groupmode="layer" id="layer1">
+<ns0:g id="g7" ns1:export-filename="sample.svg" ns1:export-xdpi="96" ns1:export-ydpi="96" ns1:label="g7" transform="matrix(0.99807164,0,0,1,32.516702,-6.9813908)">
+<ns0:rect style="fill:url(#linearGradient271);stroke:none;stroke-width:0.865835;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="rect270" width="286.30209" height="285.75" x="-32.579529" y="6.981391" ns1:export-filename="sample.svg" ns1:export-xdpi="96" ns1:export-ydpi="96">
+</ns0:rect>
+<ns0:image width="286.30209" height="211.66666" preserveAspectRatio="none" ns3:href="file:///Z:/GatorSVG/assets/Sample/tv.jpg" id="poster" x="-32.579529" y="6.981391" ns1:label="image1-9" ns1:svg-dpi="1">
+</ns0:image>
+<ns0:rect style="fill:#ffb380;stroke:none;stroke-width:0.865835;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="rect271" width="50.712875" height="19.780607" x="-19.172674" y="20.362391">
+</ns0:rect>
+<ns0:ellipse style="fill:#ffb380;stroke:none;stroke-width:0.865835;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path271" cx="226.52246" cy="36.361412" rx="17.778652" ry="17.744368">
+</ns0:ellipse>
+<ns0:image width="32.094532" height="32.032642" preserveAspectRatio="none" ns3:href="file:///Z:/GatorSVG/assets/Sample/LogoGatorSVG.png" id="logo" x="210.47519" y="20.345091" ns1:label="image1" ns1:svg-dpi="1">
+</ns0:image>
+<ns0:ellipse style="fill:#ffb380;stroke:none;stroke-width:0.865835;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path272" cx="222.44212" cy="205.07834" rx="24.190624" ry="24.143976">
+</ns0:ellipse>
+<ns0:text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9177px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264839" x="-12.711364" y="34.364067" id="type" transform="scale(1.0009656,0.99903534)" ns1:label="text272">
+<ns0:tspan ns2:role="line" id="tspan272" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9177px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';stroke-width:0.264839" x="-12.711364" y="34.364067">Movie</ns0:tspan>
+</ns0:text>
+<ns0:text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.0684px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264839" x="207.78194" y="211.60301" id="score" transform="scale(1.0009656,0.99903534)" ns1:label="text273">
+<ns0:tspan ns2:role="line" id="tspan273" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.0684px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';stroke-width:0.264839" x="207.78194" y="211.60301">6.5</ns0:tspan>
+</ns0:text>
+<ns0:text xml:space="preserve" transform="matrix(0.26509453,0,0,0.26458333,-32.579527,6.9813908)" id="desc" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect274);fill:#000000;fill-opacity:1;stroke:none" ns1:label="text274">
+<ns0:tspan x="35.181641" y="898.72384" id="tspan1">This is the best movie I have watched in awhile. Surely worth a watch.</ns0:tspan>
+</ns0:text>
+</ns0:g>
+</ns0:g>
+</ns0:svg>

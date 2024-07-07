@@ -1,0 +1,7 @@
+tspan273,{svg}tspan,Element,6.5
+poster,{xlink}href,Normal,file:///Z:/Auto/SVGator/assets/Sample/tv.jpg
+desc,fill,Style,#000000
+stop270,stop-color,Style,#0086df
+stop271,stop-color,Style,#ce9500
+tspan272,{svg}tspan,Element,Movie
+tspan1,{svg}tspan,Element,This is the best movie I have watched in awhile. Surely worth a watch.
