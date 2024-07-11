@@ -10,7 +10,7 @@ If you discover a security vulnerability in GatorSVG, we appreciate your efforts
 
 ### How to Report
 
-1. **Email**: Please send an email to [your_email@example.com](mailto:contact@indiemount.com) with the subject line "Security Vulnerability in GatorSVG".
+1. **Email**: Please send an email to [contact@indiemount.com](mailto:contact@indiemount.com) with the subject line "Security Vulnerability in GatorSVG".
 2. **Details**: Include any details you can provide about the vulnerability. If possible, provide a proof of concept or steps to reproduce the issue.
 3. **Response**: We will acknowledge receipt of your report within 3 business days and will work with you to understand the issue and address it promptly. We aim to provide a resolution or mitigation plan within 30 days.
 
